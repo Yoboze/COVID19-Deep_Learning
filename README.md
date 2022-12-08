@@ -7,4 +7,5 @@ Step 2: Download the zip file from the root page of this repository. Then, you w
 Step 3: The text files named readme with model names demonstrated how to run each python script and generate the text file results from the outputs. The JupyterLab notebook named All_Italy_models.ipynb runs the output for four mathematical models for Italy and Sweden_Models.ipynb for Sweden. Italy_RNN.ipynb and Sweden_RNN.ipnb run the output for the python script Italy_RNN and Sweden_RNN for deep learning models (LSTM and GRU) for Italy and Sweden.
 
 The necessary python packages needed to be installed for this project are:
-*Numpy
+
+* Numpy
