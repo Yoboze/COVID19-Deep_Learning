@@ -6,6 +6,14 @@
 
 **Step 3:** The text files named readme with model names demonstrated how to run each python script and generate the text file results from the outputs. The JupyterLab notebook named All_Italy_models.ipynb runs the output for four mathematical models for Italy and Sweden_Models.ipynb for Sweden. Italy_RNN.ipynb and Sweden_RNN.ipnb run the output for the python script Italy_RNN and Sweden_RNN for deep learning models (LSTM and GRU) for Italy and Sweden.
 
+A text is included at the top of the notebook explaining what the block of code is doing
+
+To execute a cell, click on it to select it and Shift+Enter.
+
+Plots are shown to describe each result.
+
+The Error Metrics such as **RMSE, MAPE, and EV** are obtained for the mathematical and deep learning models.
+
 The necessary python packages needed to be installed for this project are:
 
 * Numpy
@@ -17,11 +25,5 @@ The necessary python packages needed to be installed for this project are:
 * sys
 * scipy
 
-A text is included at the top of the notebook explaining what the block of code is doing
 
-To execute a cell, click on it to select it and Shift+Enter.
-
-Plots are shown to describe each result.
-
-The Error Metrics such as **RMSE, MAPE, and EV** are obtained for the mathematical and deep learning models.
 
