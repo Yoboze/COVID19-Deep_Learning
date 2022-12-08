@@ -9,3 +9,9 @@ Step 3: The text files named readme with model names demonstrated how to run eac
 The necessary python packages needed to be installed for this project are:
 
 * Numpy
+* Matplotlib
+* Sklearn
+* Tensorflow
+* Pytorch
+* pyDOE
+* scipy
