@@ -1,4 +1,4 @@
-### Ebenezer Oluwasakin Deep Learning (MTSU) Project Demo
+### Deep Learning (MTSU) Project
 
 **Step 1:** Click on this link https://github.com/Yoboze/eo3j-Fall-2021-DL-DEMO.git. It will take you to the GitHub repository of eo3j-Fall-2022-DL-DEMO, which is the repository for my deep learning project.
 
